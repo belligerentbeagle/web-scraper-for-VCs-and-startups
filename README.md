@@ -10,3 +10,4 @@
 8. Used chatGPT to categorise the company into table format from description.
 9. Data cleaning
 
+Happy web scraping!
